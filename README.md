@@ -4,8 +4,8 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;21y engineering student \
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Full-stack Blockchain Developer\
-&nbsp;&nbsp;&nbsp;:book: &nbsp;Learning solidity\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Full-stack Developer\
+&nbsp;&nbsp;&nbsp;:book: &nbsp;Learning AI\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about blockchain and decentralization\
 &nbsp;&nbsp;&nbsp;🇫🇷 &nbsp; From France 
 
