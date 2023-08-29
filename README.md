@@ -15,11 +15,11 @@
 <details>
   <summary><b>:hammer_and_wrench: &nbsp;My stacks</b></summary>
 <br/>
-&nbsp;&nbsp;&nbsp;Solidity • HardHat • IPFS • ethers.js
+&nbsp;&nbsp;&nbsp;Python • TypeScript • AWS
    <br/> 
-&nbsp;&nbsp;&nbsp;web3.js • NextJs • TypeScript • Firebase
+&nbsp;&nbsp;&nbsp;EthersJs • NextJs
    <br/> 
-&nbsp;&nbsp;&nbsp;React / React native • NodeJs • Git • Figma
+&nbsp;&nbsp;&nbsp;React / React native • Figma
 
 </details>
 
