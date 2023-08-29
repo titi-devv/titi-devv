@@ -17,7 +17,7 @@
 <br/>
 &nbsp;&nbsp;&nbsp;Python • TypeScript • AWS
    <br/> 
-&nbsp;&nbsp;&nbsp;React / React native • Figma
+&nbsp;&nbsp;&nbsp;NextJs • React native • Figma
 
 </details>
 
