@@ -17,8 +17,6 @@
 <br/>
 &nbsp;&nbsp;&nbsp;Python • TypeScript • AWS
    <br/> 
-&nbsp;&nbsp;&nbsp;EthersJs • NextJs
-   <br/> 
 &nbsp;&nbsp;&nbsp;React / React native • Figma
 
 </details>
