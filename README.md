@@ -17,7 +17,9 @@
 <br/>
 &nbsp;&nbsp;&nbsp;Python • TypeScript • AWS
    <br/> 
-&nbsp;&nbsp;&nbsp;NextJs • React native • Figma
+&nbsp;&nbsp;&nbsp;NextJs • React native • Figma  
+  <br/> 
+&nbsp;&nbsp;&nbsp;SQL • Firebase
 
 </details>
 
