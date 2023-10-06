@@ -3,7 +3,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;21y engineering student \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;22y computer science & machine learning engineering student \
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Full-stack Engineer\
 &nbsp;&nbsp;&nbsp;:book: &nbsp;Learning AI\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about blockchain and decentralization\
@@ -15,11 +15,11 @@
 <details>
   <summary><b>:hammer_and_wrench: &nbsp;My stacks</b></summary>
 <br/>
-&nbsp;&nbsp;&nbsp;Python • TypeScript • AWS
+&nbsp;&nbsp;&nbsp;Python • TypeScript • Tensorflow • Keras
    <br/> 
 &nbsp;&nbsp;&nbsp;NextJs • React native • Figma  
   <br/> 
-&nbsp;&nbsp;&nbsp;SQL • Firebase
+&nbsp;&nbsp;&nbsp;SQL • Firebase • AWS
 
 </details>
 
