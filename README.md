@@ -4,8 +4,8 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;22y computer science & machine learning engineering student \
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Full-stack Engineer\
-&nbsp;&nbsp;&nbsp;:book: &nbsp;Learning AI\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Software Engineer\
+&nbsp;&nbsp;&nbsp;:book: &nbsp;Learning NLP\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about blockchain and decentralization\
 &nbsp;&nbsp;&nbsp;🇫🇷 &nbsp; From France 
 
