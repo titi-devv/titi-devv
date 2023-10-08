@@ -15,11 +15,11 @@
 <details>
   <summary><b>:hammer_and_wrench: &nbsp;My stacks</b></summary>
 <br/>
-&nbsp;&nbsp;&nbsp;Python • TypeScript • Tensorflow • Keras
+&nbsp;&nbsp;&nbsp;Python • TypeScript • PyTorch • Keras
    <br/> 
-&nbsp;&nbsp;&nbsp;NextJs • React native • Figma  
+&nbsp;&nbsp;&nbsp;NextJs • React native • Docker • Figma  
   <br/> 
-&nbsp;&nbsp;&nbsp;SQL • Firebase • AWS
+&nbsp;&nbsp;&nbsp;SQL • Firebase • AWS • Git • Jira
 
 </details>
 
