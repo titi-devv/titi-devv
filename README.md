@@ -15,11 +15,13 @@
 <details>
   <summary><b>:hammer_and_wrench: &nbsp;My stacks</b></summary>
 <br/>
-&nbsp;&nbsp;&nbsp;Python • TypeScript • PyTorch • Keras
+&nbsp;&nbsp;&nbsp;Python • TypeScript • PyTorch • Keras • Pandas • FastAPI
    <br/> 
-&nbsp;&nbsp;&nbsp;NextJs • React native • Docker • Figma  
+&nbsp;&nbsp;&nbsp;Machine Learning • Deep Learning • Federated Learning • LLMs
   <br/> 
-&nbsp;&nbsp;&nbsp;SQL • Firebase • AWS • Git • Jira
+&nbsp;&nbsp;&nbsp;NextJs • Docker • Git • Figma • SQL • Firebase • AWS • Azure • Jira
+  <br/> 
+&nbsp;&nbsp;&nbsp;Data Stuctures & Algorithms • Problem solving
 
 </details>
 
