@@ -4,7 +4,7 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Software Engineer \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Passionate about AI, blockchain and decentralization\
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about AI\
 &nbsp;&nbsp;&nbsp;🇫🇷 &nbsp; From France 
 
 
