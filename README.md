@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;👨🏻‍💻 &nbsp;Software Engineer \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Passionate about AI\
-&nbsp;&nbsp;&nbsp;🇫🇷 &nbsp; From France 
+&nbsp;&nbsp;&nbsp;🇫🇷 &nbsp; From France, living in Switzerland 🇨🇭 
 
 
 <hr/>
@@ -13,11 +13,11 @@
 <details>
   <summary><b>:hammer_and_wrench: &nbsp;My stacks</b></summary>
 <br/>
-&nbsp;&nbsp;&nbsp;Python • TypeScript • PyTorch • Keras • Pandas • FastAPI
+&nbsp;&nbsp;&nbsp;Python • TypeScript • FastAPI • Express
    <br/> 
-&nbsp;&nbsp;&nbsp;Machine Learning • Deep Learning • Federated Learning • LLMs
+&nbsp;&nbsp;&nbsp;Azure • Jest • Langchain • Langfuse
   <br/> 
-&nbsp;&nbsp;&nbsp;NextJs • Docker • Git • Figma • SQL • Firebase • AWS • Azure • Jira
+&nbsp;&nbsp;&nbsp;NextJs • Docker • Docker • Git • SQL • Azure
   <br/> 
 &nbsp;&nbsp;&nbsp;Data Stuctures & Algorithms • Problem solving
 
