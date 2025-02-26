@@ -31,7 +31,7 @@
    <br/> 
 &nbsp;&nbsp;&nbsp;Communication • Creativity
   <br/> 
-&nbsp;&nbsp;&nbsp;Gym • Basketball
+&nbsp;&nbsp;&nbsp;Gym • Football
 </details>
 
 
